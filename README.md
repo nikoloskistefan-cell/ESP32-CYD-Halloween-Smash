@@ -36,6 +36,8 @@ Required libraries:
 
 Disclosure: this link may be an affiliate link. It does not change the price for you.
 
+🎬 [Watch the Halloween Smash video on YouTube](https://youtube.com/shorts/5NoCl6Tin7s)
+
 ## License
 
 This project is released under the MIT License. See [LICENSE](LICENSE).
